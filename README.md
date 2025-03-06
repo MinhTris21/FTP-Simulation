@@ -16,5 +16,4 @@ Open WSL command promt
                 
                 $./ftpclient 127.0.0.1`
 
-      ![Screenshot 2025-03-06 080117](https://github.com/user-attachments/assets/7fd3d02b-3799-48e8-b681-6230974237ff)
 
