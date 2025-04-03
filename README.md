@@ -6,16 +6,13 @@ Open 2 WSL command promt to simulating Server and Client
                 
                 RUNNING SERVER SIDE
                 $cd FTP-Simulation
-                
                 $cd FTP-Server
-                
+                $chmod +x ftpserver
                 $./ftpserver
                 RUNNING CLIENT SIDE
-                
                 $cd FTP-Simulation
-                
                 $cd FTP-Client
-                
+                $chmod +x ftpclient              
                 $./ftpclient 127.0.0.1
 COMMAND EXAMPLE
 1. USER ABCDEF	
