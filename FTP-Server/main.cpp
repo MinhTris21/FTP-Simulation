@@ -76,7 +76,7 @@ int main() {
             /*=================================================MENU-FOR-FTP=================================================*/
             bzero(buf, sizeof(buf));
             strcpy(buf, "\n------------------------------------------------------------------------------------------------------------------------------------------------\n");
-            strcat(buf, "\t\t\t\t\tTEAM 7 - FILE TRANSFER PROTOCOL SIMULATING.");
+            strcat(buf, "\t\t\t\t\tWelcome to File Transfer Protocol Services.");
             strcat(buf, "\n------------------------------------------------------------------------------------------------------------------------------------------------\n");
             strcat(buf, "\n\tCommand-Name \t\t\tDescription \t\t\t\t\t\t\t Usage ");
             strcat(buf, "\n\n\t1.  USER \t sends username to the server                             \t USER <username>");
