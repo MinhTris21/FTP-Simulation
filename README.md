@@ -14,7 +14,7 @@ Open 2 WSL command promt to simulating Server and Client
                 $cd FTP-Client
                 $chmod +x ftpclient              
                 $./ftpclient 127.0.0.1
-COMMAND EXAMPLE
+COMMAND EXAMPLES
 1. USER ABCDEF	
 2. PASS 123456
 3. MKD /home/minhtris/FTP-Simulation/FTP-Client/DAYLACLIENT - CREATE THE FOLDER IF NOT EXIST
